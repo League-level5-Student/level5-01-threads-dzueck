@@ -9,6 +9,7 @@ public class OlympicRings_Threaded {
 	static Robot dumbass = new Robot();
 	static Robot dumbass2 = new Robot();
 	static Robot dumbass3 = new Robot();
+	static Robot dumbass4 = new Robot();
 	static Robot dumbass5 = new Robot();
 	
 	public static void main(String[] args) {
